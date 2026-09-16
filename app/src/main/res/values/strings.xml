@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">NutriTrack</string>
+    <string name="title_activity_welcome_screen">WelcomeScreen</string>
+    <string name="title_activity_login_screen">LoginScreen</string>
+    <string name="title_activity_food_intake_questionnaire_screen">FoodIntakeQuestionnaireScreen
+    </string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title_activity_insights_screen">InsightsScreen</string>
+    <string name="title_activity_csvutils">CSVUtils</string>
+    <string name="persona_1_dsc"><![CDATA[I’m passionate about healthy eating & health plays a big part in my life. I use social media to follow active lifestyle personalities or get new recipes/exercise ideas. I may even buy superfoods or follow a particular type of diet. I like to think I am super healthy.]]></string>
+    <string name="persona_2_dsc">I’m health-conscious and being healthy and eating healthy is important to me. Although health means different things to different people, I make conscious lifestyle decisions about eating based on what I believe healthy means. I look for new recipes and healthy eating information on social media.</string>
+    <string name="persona_3_dsc">I aspire to be healthy (but struggle sometimes). Healthy eating is hard work! I’ve tried to improve my diet, but always find things that make it difficult to stick with the changes. Sometimes I notice recipe ideas or healthy eating hacks, and if it seems easy enough, I’ll give it a go.</string>
+    <string name="persona_4_dsc">I try and live a balanced lifestyle, and I think that all foods are okay in moderation. I shouldn’t have to feel guilty about eating a piece of cake now and again. I get all sorts of inspiration from social media like finding out about new restaurants, fun recipes and sometimes healthy eating tips.</string>
+    <string name="persona_5_dsc">I’m contemplating healthy eating but it’s not a priority for me right now. I know the basics about what it means to be healthy, but it doesn’t seem relevant to me right now. I have taken a few steps to be healthier but I am not motivated to make it a high priority because I have too many other things going on in my life.</string>
+    <string name="persona_6_dsc">I’m not bothered about healthy eating. I don’t really see the point and I don’t think about it. I don’t really notice healthy eating tips or recipes and I don’t care what I eat.</string>
+    <string name="foodScore_exp">Your Food Quality Score provides a snapshot of how well your eating patterns align with established food guidelines, helping you identify both strengths and opportunities for improvement in your diet.\n\nThis personalized measurement considers various food groups including vegetables, fruits, whole grains, and proteins to give you practical insights for making healthier food choices.</string>
+    <string name="edit_encourage">You\'ve allready filled food intake wuastionare, but you can change details here:</string>
+    <string name="welcome_exp">"This app provides general health and nutrition information\ for neducational purposes only. It is not intended as\ medical advice,ndiagnosis, or treatment. Always consult a\ qualified healthcare nprofessional before making any\ changes to your diet, exercise, or health regimen.\ Use this app at your own risk.\nIf you’d like to an Accredited Practicing Dietitian (APD),\ pleasenvisit the Monash Nutrition Dietetics Clinic\ (discounted rates for students):\nhttps://www.monash.edu/medicine/scs/nutrition/clinics/nutrition "</string>
+    <string name="login_dsc">This app is only for pre-registered users. Please have your ID and phone number handy before continuing.</string>
+    <string name="wholepersona_dsc">People can be brodely classified in to 6 different types based on therit eaing preference. Click on each button bellow to find out the different types, and select the type that best fits you!</string>
+    <string name="login_dsc_a3">Please enter your ID and password or Register to claim your account on your first visit.</string>
+</resources>
