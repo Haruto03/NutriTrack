@@ -15,11 +15,11 @@ propertiesl.load(FileInputStream(file))
 
 
 android {
-    namespace = "com.fit2081.nutritrackHaruto34307710"
+    namespace = "com.nutritrack"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.fit2081.nutritrack"
+        applicationId = "com.nutritrack"
         minSdk = 35
         targetSdk = 35
         versionCode = 1
