@@ -9,6 +9,8 @@ AI が生成したアドバイスでコーチングします。別途用意し�
 
 制作: Haruto Iriyama
 
+![Android エミュレータ上の NutriTrack。Food Quality Score を表示するホーム画面、スコアを食品カテゴリ別に分解したインサイト画面、バナナの栄養情報を取得した NutriCoach 画面](docs/screenshots.png)
+
 ## 機能
 
 | 画面 | 内容 |

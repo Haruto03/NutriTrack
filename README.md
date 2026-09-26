@@ -10,6 +10,8 @@ to surface patterns across the cohort.
 
 Built by Haruto Iriyama.
 
+![NutriTrack running on an Android emulator: the home screen with the user's Food Quality Score, the insights screen breaking that score down by food category, and the NutriCoach screen showing nutrition facts fetched for a banana](docs/screenshots.png)
+
 ## What it does
 
 | Screen | Purpose |
