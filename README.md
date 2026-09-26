@@ -1,5 +1,7 @@
 # NutriTrack
 
+English | [日本語](README.ja.md)
+
 An Android app, written in Kotlin with Jetpack Compose, that turns a
 patient's dietary-quality data (HEIFA scores) into a personal dashboard,
 lets them log their eating habits, and coaches them with AI-generated tips.
@@ -56,3 +58,8 @@ API 35.
 
 Sample patients live in `app/src/main/assets/CustomerData.csv`; log in with
 any `User_ID` / `PhoneNumber` pair from that file.
+
+To reach the clinician dashboard, open **Settings → Clinician login** and
+enter the demo key `dollar-entry-apples`. It is a fixed demo value in
+`ClinicianLoginViewModel.kt`, not a real credential — a production build
+would check it server-side.
